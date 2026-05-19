@@ -70,6 +70,52 @@ const collaboratorsData = [
 
     image: "/images/collaborators/person6.webp",
   },
+  {
+    id: 7,
+
+    name: "Priya Koner Maji",
+
+    role: "Makeup Artist, Bowaichandi",
+
+    phone: "+91 8373884044",
+
+    image: "/images/collaborators/person7.webp",
+  },
+  {
+    id: 8,
+
+    name: "Riya Barat",
+
+    role: "Makeup Artist, Bankura",
+
+    phone: "+91 9641913473",
+
+    image: "/images/collaborators/person8.webp",
+  },
+
+  {
+    id: 9,
+
+    name: "Mousumi Sardar",
+
+    role: "Makeup Artist, Kolkata",
+
+    phone: "+91 6294048353",
+
+    image: "/images/collaborators/person9.webp",
+  },
+
+  {
+    id: 10,
+
+    name: "Subhadip Gorai",
+
+    role: "Photographer, Sonamukhi",
+
+    phone: "+91 8391037376",
+
+    image: "/images/collaborators/person10.webp",
+  },
 ];
 
 export default collaboratorsData;
