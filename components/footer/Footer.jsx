@@ -69,7 +69,7 @@ export default function Footer() {
 
             {/* Phone */}
             <Link
-              href="tel:+917679233576"
+              href="tel:+915555555555"
               className="
                 w-12
                 h-12
